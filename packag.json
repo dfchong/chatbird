@@ -1,5 +1,8 @@
 {
   "scripts": {
     "build": "npx honkit build"
+  },
+  "devDependencies": {
+    "honkit": "latest"
   }
 }
