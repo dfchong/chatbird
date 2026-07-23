@@ -19,6 +19,7 @@ e.POST("/webhook", func(c echo.Context) error {
         // 提取update
     // 组建 message
     // 发到 nats/jetstream
+    // js.PublishMsg 消息去重
     return c.NoContent(200)
 })
 ```
