@@ -7,3 +7,5 @@
 3. 修改bot 后端：
 4. 添加bot 生成scret\_toke 将bot-id与生成的secret\_token添加到kvrocks的hash表中 广告信息添加到PG
 5. 删除bot 从hash表中删除bot-id 与 对应的 secret\_token 按照bot-id，从PG中删除广告信息
+
+tma限制用户注册数量，也是一种攻击
