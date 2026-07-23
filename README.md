@@ -12,4 +12,4 @@
 2. gopkg.in/telebot.v4
 3. github.com/nats-io/nats.go/jetstream@v1.50.0&#x20;
 4. github.com/redis/rueidis@v1.0.73
-5. github.com/panjf2000/ants/v2@v2.12.0&#x20;
+
