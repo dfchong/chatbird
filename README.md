@@ -4,10 +4,7 @@
 2. code-server&#x20;
 3. PostgreSQL
 4. nats/jetstream
-5. kvrocks server: v2.15.0&#x20;
-6. &#x20;kvrocks
-7. nats-server: v0.3.1&#x20;
-8.
+5. &#x20;valkey/redis
 
 ## 依赖
 
