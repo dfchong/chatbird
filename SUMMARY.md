@@ -12,7 +12,7 @@
       * [echo](liao-tian-zi-xiang-mu/echo/qu-zhong/echo.md)
       * [msg-id](liao-tian-zi-xiang-mu/echo/qu-zhong/msg-id.md)
       * [consumer](liao-tian-zi-xiang-mu/echo/qu-zhong/consumer.md)
-    * [secret-token 校验](liao-tian-zi-xiang-mu/echo/secrettoken-jiao-yan.md)
+    * [bot\_id](liao-tian-zi-xiang-mu/echo/bot_id.md)
     * [gateway HA](liao-tian-zi-xiang-mu/echo/gateway-ha.md)
   * [chat-worker](liao-tian-zi-xiang-mu/chat-worker/README.md)
     * [多个实例HA](liao-tian-zi-xiang-mu/chat-worker/duo-ge-shi-li-ha.md)
