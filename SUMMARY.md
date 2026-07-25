@@ -17,5 +17,6 @@
   * [chat-worker](liao-tian-zi-xiang-mu/chat-worker/README.md)
     * [多个实例HA](liao-tian-zi-xiang-mu/chat-worker/duo-ge-shi-li-ha.md)
   * [架构](liao-tian-zi-xiang-mu/jia-gou.md)
+  * [优雅关机](liao-tian-zi-xiang-mu/you-ya-guan-ji.md)
 * [星际导航子项目](xing-ji-dao-hang-zi-xiang-mu.md)
 * [后台管理子项目](hou-tai-guan-li-zi-xiang-mu.md)
