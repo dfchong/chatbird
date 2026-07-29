@@ -8,6 +8,7 @@
   * [功能描述](bot-zhu-ce-yu-guan-li-zi-xiang-mu/gong-neng-miao-shu.md)
   * [JSONB](bot-zhu-ce-yu-guan-li-zi-xiang-mu/jsonb.md)
   * [Valkey](bot-zhu-ce-yu-guan-li-zi-xiang-mu/valkey.md)
+  * [一个用户只能注册一个bot](bot-zhu-ce-yu-guan-li-zi-xiang-mu/yi-ge-yong-hu-zhi-neng-zhu-ce-yi-ge-bot.md)
 * [聊天子项目](liao-tian-zi-xiang-mu/README.md)
   * [Gateway](liao-tian-zi-xiang-mu/gateway/README.md)
     * [去重](liao-tian-zi-xiang-mu/gateway/qu-zhong/README.md)
