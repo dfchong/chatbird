@@ -1,7 +1,15 @@
 # 创建
 
-一、
-
-1. 创建表时
-2. 某字段的数据类型指定为JSONB
+```
+// 1. ID主键
+    CREATE TABLE user-profiles (
+        id BIGSERIAL PRIMARY KEY,
+        data JSONB NOT NULL
+    );
+// 2. 使用UUID主键
+    CREATE TABLE user-profiles )
+        id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+        data JSONB NOT NULL
+    );
+```
 
