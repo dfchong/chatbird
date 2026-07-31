@@ -10,6 +10,7 @@
   * [Valkey](bot-zhu-ce-yu-guan-li-zi-xiang-mu/valkey.md)
   * [一个用户只能注册一个bot](bot-zhu-ce-yu-guan-li-zi-xiang-mu/yi-ge-yong-hu-zhi-neng-zhu-ce-yi-ge-bot.md)
   * [定期清除废弃bot](bot-zhu-ce-yu-guan-li-zi-xiang-mu/ding-qi-qing-chu-fei-qi-bot.md)
+  * [每天提交10次限制](bot-zhu-ce-yu-guan-li-zi-xiang-mu/mei-tian-ti-jiao-10-ci-xian-zhi.md)
 * [聊天子项目](liao-tian-zi-xiang-mu/README.md)
   * [Gateway](liao-tian-zi-xiang-mu/gateway/README.md)
     * [去重](liao-tian-zi-xiang-mu/gateway/qu-zhong/README.md)
