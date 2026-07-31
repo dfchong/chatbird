@@ -24,5 +24,6 @@
   * [架构](liao-tian-zi-xiang-mu/jia-gou.md)
   * [优雅关机](liao-tian-zi-xiang-mu/you-ya-guan-ji.md)
   * [session](liao-tian-zi-xiang-mu/session.md)
+  * [bot 与 echo连接的生命周期](liao-tian-zi-xiang-mu/bot-yu-echo-lian-jie-de-sheng-ming-zhou-qi.md)
 * [星际导航子项目](xing-ji-dao-hang-zi-xiang-mu.md)
 * [后台管理子项目](hou-tai-guan-li-zi-xiang-mu.md)
