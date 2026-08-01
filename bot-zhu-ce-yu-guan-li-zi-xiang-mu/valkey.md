@@ -27,3 +27,15 @@ key:    tg_bot:secret:{token}
     TTL 24h
 ```
 
+二、bot
+
+```
+key: bot:1234
+{
+    id
+    username
+    status
+    welcome_text
+    promotion
+}
+```
