@@ -53,4 +53,7 @@
   * [索引优化](readme/suo-yin-you-hua.md)
   * [数据插入](readme/shu-ju-cha-ru.md)
   * [用户注册表参考](readme/yong-hu-zhu-ce-biao-can-kao.md)
-* [PgBouncer](pgbouncer.md)
+* [PgBouncer](pgbouncer/README.md)
+  * [安装](pgbouncer/an-zhuang.md)
+  * [values.yaml](pgbouncer/values.yaml.md)
+  * [验证连接](pgbouncer/yan-zheng-lian-jie.md)
