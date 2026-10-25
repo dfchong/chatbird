@@ -57,3 +57,4 @@
   * [安装](pgbouncer/an-zhuang.md)
   * [values.yaml](pgbouncer/values.yaml.md)
   * [验证连接](pgbouncer/yan-zheng-lian-jie.md)
+  * [负面效果](pgbouncer/fu-mian-xiao-guo.md)
